@@ -1,0 +1,29 @@
+.main{
+    border: 3px solid cornflowerblue;
+     width: 300px;
+     margin: 0 auto;
+}
+.result{
+    width: 98%;
+    background-color: floralwhite;
+    height: 40px;
+
+}
+.clear{
+    width: 100%;
+    margin-top: 10px;
+    background-color: cornflowerblue;
+    height: 30px ;
+}
+.btn{
+    background-color: cornflowerblue;
+    width: 60px;
+    margin: 5px;
+    height: 30px;
+}
+.halfbtn{
+    background-color: cornflowerblue;
+    width: 135px;
+    margin: 5px;
+    height: 30px;
+}
